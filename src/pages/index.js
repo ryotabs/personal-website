@@ -6,7 +6,8 @@ const IndexPage = () => {
   return (
     <main>
       <title>Home Page</title>
-      <h1>Ryota's home page</h1>
+      <h1>Hello, I'm Ryota</h1>
+      <p>I'm a dev from Hawaii who enjoys rock climbing and playing music.</p>
     </main>
   )
 }
